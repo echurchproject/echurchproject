@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seyi Olaleye
 ====================================================================================================================================
 
-Red Hat Enginee & DevOps Engineer
+Red Hat Engineer & DevOps Engineer
 ---------------------------------
 
 I am an experienced professional with over 10 years of expertise in the fields of DevOps Engineering and ERP Consulting. Throughout my career, I have been dedicated to optimizing software development and deployment processes, ensuring seamless integration of technology solutions, and providing valuable insights as an ERP consultant.
